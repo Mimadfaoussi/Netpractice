@@ -10,7 +10,6 @@ Additionally, I extended my research to study the OSI model and its layers in de
 Using tools like **Wireshark**, I captured and observed network traffic, gaining insights into how protocols like TCP/IP, HTTP, and DNS operate in real-time.
 
 
-![Network Toplogy Number 10]()
 ---
 
 ##  Features
@@ -44,4 +43,10 @@ Using tools like **Wireshark**, I captured and observed network traffic, gaining
 - **Subnet Overlaps:** Resolved IP conflicts by recalculating subnet masks and ranges.
 - **Routing Conflicts:** Debugged misconfigured routing tables to enable packet delivery.
 - **Traffic Analysis:** Interpreted raw packet data in Wireshark to identify communication issues.
+
+---
+
+## Demonstration
+
+![Network Toplogy Number 10](img/level10_net.png)
 
